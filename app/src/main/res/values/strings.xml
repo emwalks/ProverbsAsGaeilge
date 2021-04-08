@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ProverbsAsGaeilge</string>
+    <string name="proverb1GAE">Is fearr an tsláinte ná na táinte</string>
+    <string name="proverb1ENG">Health is better than wealth</string>
+    <string name="proverb2GAE">Tús maith leath na hoibre</string>
+    <string name="proverb2ENG">A good start is half the work.</string>
+    <string name="proverb3GAE">Níl aon tintéan mar thintéan fhéin</string>
+    <string name="proverb3ENG">There’s no fireplace like your own</string>
+    <string name="proverb4GAE">Ní neart go cur le chéile</string>
+    <string name="proverb4ENG">There is strength in unity</string>
+    <string name="proverb5GAE">Is minic a bhris béal duine a shrón</string>
+    <string name="proverb5ENG">It\'s often a mouth that breaks ones nose</string>
+    <string name="proverb6GAE">Mol an oige agus tiocfaidh sí</string>
+    <string name="proverb6ENG">Encourage youth and they shall succeed</string>
+    <string name="proverb7GAE">Nuair a bhíonn an fíon istigh, bíonn an ciall amuigh</string>
+    <string name="proverb7ENG">When the wine is in, sense is out</string>
+    <string name="proverb8GAE">Ar mhuin na muice</string>
+    <string name="proverb8ENG">On the pigs back</string>
+
+</resources>
